@@ -1076,6 +1076,16 @@ footer span a:hover {
     background: #4fa0ff;
 }
 
+.experience .card:nth-child(7),
+.card:nth-child(7):before {
+    background: #b57edc;
+}
+
+.experience .card:nth-child(8),
+.card:nth-child(8):before {
+    background: #fe4eda;
+}
+
 .experience .card:nth-child(even) .card-body:before {
     content: '';
     position: absolute;
